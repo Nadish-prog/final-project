@@ -83,4 +83,4 @@ Please note that this project is governed by a [Code of Conduct](CODE_OF_CONDUCT
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more details.
